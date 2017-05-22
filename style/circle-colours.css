@@ -1,11 +1,9 @@
-[id='two'] {
-	border-color:#555;
-}
+/*
+    The circle button is white by default. To change its colour for a particular
+    picture, edit the `circle-colours.css` file in the styles directory. You will
+    need to write a little CSS. For example:
 
-[id='04'] {
-	border-color:#555;
-}
-
-[id='06'] {
-	border-color:#555;
-}
+    [id='headshot'] {
+      border-color:#555;
+    }
+*/
