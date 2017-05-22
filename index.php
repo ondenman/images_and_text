@@ -17,7 +17,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>Photos and Circles</title>
+	<title>Images and Text</title>
 
 	<!--  Mobile Viewport
 	http://j.mp/mobileviewport & http://davidbcalhoun.com/2010/viewport-metatag
