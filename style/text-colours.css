@@ -1,0 +1,10 @@
+
+/* Colour value of body text */
+body, select, input, textarea {color: #333;}
+
+/* Colour value of headings */
+h1, h2, h3 ,h4 { color: #555;}
+
+/* Colour values of links */
+a {color: #666;}
+a:hover {color: #bbb;}
