@@ -13,6 +13,9 @@ To add a new image to the site, create a new directory within assets, and add an
 
 Images are displayed in the order of their containing directories.
 
+## Text content
+The the text content associated with an image is stored in a markdown file within the image's directory.
+
 ## Removing images
 To remove an image, delete the folder.
 
