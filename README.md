@@ -1,6 +1,8 @@
 # Images and text
 _note: I wrote this many moons ago. Yes, it's a kludge of convoluted code. I apologise!_
 
+![screenshot](screenshot.png)
+
 ## What is it?
 A single page PHP site for displaying photos with associated text. Each image is displayed full width. On clicking the browser window, the current image dissolves into the next.
 
