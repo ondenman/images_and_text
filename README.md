@@ -4,7 +4,7 @@ _note: I wrote this many moons ago. Yes, it's a kludge of convoluted code. I apo
 ![screenshot](screenshot.png)
 
 ## What is it?
-A single page PHP site for displaying photos with associated text. Each image is displayed full width. On clicking the browser window, the current image dissolves into the next.
+A single page PHP site for displaying photos with associated text. Each image is displayed full width. On clicking the browser window, the current image dissolves into the next. Clicking the circle button reveals the text content associated with the image.
 
 ## Adding images
 In the assets directory, you will see several subdirectories. Each of these contains a single image file and a corresponding markdown file. The image file can be in one of three formats: jpeg, png, or gif.
