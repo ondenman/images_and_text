@@ -1,5 +1,4 @@
 # Images and text
-_note: I wrote this many moons ago. Yes, it's a kludge of convoluted code. I apologise!_
 
 ![screenshot](screenshot.png)
 
